@@ -25,10 +25,6 @@ When both sides have won the same number of points then: when each side has won 
 
 However, if each player has won three points, the score is called as "deuce", not "40–all".
 
-From that point on in the game, whenever the score is tied, it is described as "deuce", regardless of how many points have been played.
+From that point on in the game, whenever the score is tied, it is described as "deuce", regardless of how many points have been played.  In standard play, scoring beyond a "deuce" score, in which both players have scored three points each, requires that one player must get two points ahead in order to win the game.
 
-In standard play, scoring beyond a "deuce" score, in which both players have scored three points each, requires that one player must get two points ahead in order to win the game. This type of tennis scoring is known as "advantage scoring" (or "ads"). The side which wins the next point after deuce is said to have the advantage. If they lose the next point, the score is again deuce, since the score is tied. If the side with the advantage wins the next point, that side has won the game, since they have a lead of two points. When the server is the player with the advantage, the score may be called as "advantage in". When the server's opponent has the advantage, the score may be called as "advantage out". These phrases are sometimes shortened to "ad in" or "van in" (or "my ad") and "ad out" (or "your ad"). Alternatively, the players' names are used: in professional tournaments the umpire announces the score in this format (e.g. "advantage Federer" or "advantage Murray").
-
-In the USTA rule book (but not the ITF rules) there is the comment: ‘"Zero," "one," "two," and "three," may be substituted for "Love," "15," "30," and "40." This is particularly appropriate for matches with an inexperienced player or in which one player does not understand English.’[2]
-
-For tie-breaks the calls are simply the number of points won by each player.
+This type of tennis scoring is known as "advantage scoring". The side which wins the next point after deuce is said to have the advantage.  If they lose the next point, the score is again deuce, since the score is tied. If the side with the advantage wins the next point, that side has won the game, since they have a lead of two points.  The players' names are used: in professional tournaments the umpire announces the score in this format (e.g. "advantage Federer" or "advantage Murray").
