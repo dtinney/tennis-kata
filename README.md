@@ -21,10 +21,13 @@ A game consists of a sequence of points played with the same player serving, and
 
 For instance if the server has won three points so far in the game, and the non-server has won one, the score is "40-15".
 
-When both sides have won the same number of points then: when each side has won one, or two, points, the score is described as "15-all" and "30-all" (or "15-up" and "30-up"), respectively.
+When both sides have won the same number of points then: when each side has won one, or two, points, the score is described as "15-all" and "30-all", respectively.
 
-However, if each player has won three points, the score is called as "deuce", not "40–all".
+## TODO Deuce Scoring
+If each player has won three points, the score is called as "deuce", not "40–all".
 
-From that point on in the game, whenever the score is tied, it is described as "deuce", regardless of how many points have been played.  In standard play, scoring beyond a "deuce" score, in which both players have scored three points each, requires that one player must get two points ahead in order to win the game.
+From that point on in the game, whenever the score is tied, it is described as "deuce", regardless of how many points have been played.
 
-This type of tennis scoring is known as "advantage scoring". The side which wins the next point after deuce is said to have the advantage.  If they lose the next point, the score is again deuce, since the score is tied. If the side with the advantage wins the next point, that side has won the game, since they have a lead of two points.  The players' names are used: in professional tournaments the umpire announces the score in this format (e.g. "advantage Federer" or "advantage Murray").
+Scoring beyond a "deuce" score, in which both players have scored three points each, requires that one player must get two points ahead in order to win the game.
+
+The side which wins the next point after deuce is said to have the advantage.  If they lose the next point, the score is again deuce, since the score is tied.  The players' names are used:  in this format (e.g. "advantage Player 1" or "advantage Player 2").
