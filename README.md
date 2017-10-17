@@ -9,7 +9,8 @@ For node, simply call
 For the browser, open TennisTest.html and refresh after change.
 
 ## Description
-A game consists of a sequence of points played with the same player serving, and is won by the first side to have won at least four points with a margin of two points or more over their opponent. Normally the server's score is always called first and the opponent's score second. Score calling in tennis is unusual in that each point has a corresponding call that is different from its point value.
+A game consists of a sequence of points played with the same player serving, and is won by the first side to have won at least four points with a margin of two points or more over their opponent.
+
 
 | Number of points won |	Corresponding call |
 |---|-------:|
@@ -23,11 +24,15 @@ For instance if the server has won three points so far in the game, and the non-
 
 When both sides have won the same number of points then: when each side has won one, or two, points, the score is described as "15-all" and "30-all", respectively.
 
-## TODO Deuce Scoring
-If each player has won three points, the score is called as "deuce", not "40–all".
+## TODO
 
-From that point on in the game, whenever the score is tied, it is described as "deuce", regardless of how many points have been played.
+Allow the server to be specified by giving the servers name.
 
-Scoring beyond a "deuce" score, in which both players have scored three points each, requires that one player must get two points ahead in order to win the game.
+When a player is serving their score should be announced first.
 
-The side which wins the next point after deuce is said to have the advantage.  If they lose the next point, the score is again deuce, since the score is tied.  The players' names are used:  in this format (e.g. "advantage Player 1" or "advantage Player 2").
+Example:
+* Player one has 3 points
+* Player two has 2 points
+* Player two is serving
+
+*Expected Score: 30 - 40*
