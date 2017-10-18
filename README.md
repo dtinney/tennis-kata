@@ -24,15 +24,4 @@ For instance if the server has won three points so far in the game, and the non-
 
 When both sides have won the same number of points then: when each side has won one, or two, points, the score is described as "15-all" and "30-all", respectively.
 
-## TODO
-
-Allow the server to be specified by giving the servers name.
-
-When a player is serving their score should be announced first.
-
-Example:
-* Player one has 3 points
-* Player two has 2 points
-* Player two is serving
-
-*Expected Score: 30 - 40*
+When each side have won the same number of points past 4 the score is described as "deuce"
